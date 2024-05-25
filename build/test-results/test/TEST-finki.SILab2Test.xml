@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="finki.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-05-25T20:23:14" hostname="LE-NOVO-ONA" time="0.036">
+  <properties/>
+  <testcase name="checkMultipleConditions()" classname="finki.SILab2Test" time="0.026"/>
+  <testcase name="checkEveryBranch()" classname="finki.SILab2Test" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
